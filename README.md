@@ -9,6 +9,6 @@ This code has three main functions to control a landing page
 
 ## Tecnologies Used 
 
-- HTML.
-- css.
-- Java Script.
+- HTML
+- CSS
+- JavaScript
