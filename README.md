@@ -1,13 +1,14 @@
 # Landing Page Project
 
-## Table of Contents
+## Description
 
-* [Instructions](#instructions)
+This code has three main functions to control a landing page 
+- Creating menue bar content.
+- Highlighting section on that user views.
+- Jumping To the section when user clicks on a menue element. 
 
-## Instructions
+## Tecnologies Used 
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+- HTML.
+- css.
+- Java Script.
